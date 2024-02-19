@@ -31,5 +31,5 @@ steps:
   inputs:
     buildType: 'current'
     downloadType: 'single'
-    artifactName: 'test'
+    artifactName: 'helloworld.war'
     downloadPath: '$(System.ArtifactsDirectory)'
